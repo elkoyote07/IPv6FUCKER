@@ -1,6 +1,6 @@
 # IPv6FUCKER
 Ataque de denegación de servicios vía IPv6.
-Este ataque crashea las máquinas víctimas poniendo la CPU al máximo rendimiento.
+Este ataque crashea las máquinas víctimas, que estén dentro de la misma red del atacante, poniendo la CPU al máximo rendimiento.
 
 Probado en los siguientes sistemas con éxito:
 - Windows XP
